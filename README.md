@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @adarshverma
+- 👋 Hi, I’m adarsh
 - 👀 I’m interested in web
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to find some new friends 
 
 <!---
