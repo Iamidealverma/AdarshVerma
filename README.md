@@ -1,6 +1,5 @@
 - 👋 Hi, I’m adarsh
-- 👀 I’m interested in web
-- 💞️ I’m looking to find some new friends 
+- 👀 I’m interested in web 
 
 <!---
 Iamidealverma/Iamidealverma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
